@@ -1,5 +1,11 @@
 @import "tailwindcss";
 
+:root {
+  --background: #d4f3e6;
+  --foreground: #171717;
+}
+
+
 @theme inline {
   --color-mint-green-50: #f2fbf7;
   --color-mint-green-100: #d4f3e6;
@@ -17,3 +23,8 @@
 @theme inline {
   --font-sans: var(--font-roboto);
 }
+
+body {
+  background: var(--background);
+}
+
