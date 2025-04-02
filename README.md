@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ecometric
 
-## Getting Started
+Ecometric es una plataforma integral diseñada para evaluar el impacto ambiental de una amplia variedad de proyectos, desde construcción e infraestructura hasta desarrollo agrícola e industrial. Su objetivo es proporcionar a ingenieros, arquitectos, agricultores y otros profesionales las herramientas necesarias para medir, analizar y reducir la huella ecológica de sus proyectos, facilitando la toma de decisiones más sostenibles y responsables con el medio ambiente.
 
-First, run the development server:
+## Tecnologías Utilizadas
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Next.js** - Framework de React para aplicaciones web rápidas y optimizadas.
+- **React** - Biblioteca para la construcción de interfaces de usuario.
+- **Tailwind CSS** - Framework de estilos para un diseño moderno y responsivo.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Instalación y Configuración
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/Diego-9612/Impacto-Ambiental
+   cd impacto-ambiental
+   ```
+2. Instalar dependencias:
+   ```bash
+   npm install
+   ```
+3. Ejecutar el servidor de desarrollo:
+   ```bash
+   npm run dev
+   ```
+4. Acceder a la aplicación en el navegador:
+   ```
+   http://localhost:3000
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Capturas de Pantalla
 
-## Learn More
+![image](https://github.com/user-attachments/assets/027155ef-f010-4095-9f27-9d815855a67a)
+![image](https://github.com/user-attachments/assets/dac31aa6-8488-4705-8f37-0d0650377516)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Despliegue
 
-## Deploy on Vercel
+El proyecto está desplegado en: [Ecometric en Producción](https://impacto-ambiental.vercel.app/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Licencia
+
+Este proyecto está bajo la licencia MIT.
+
