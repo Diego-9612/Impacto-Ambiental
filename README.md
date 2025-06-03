@@ -86,8 +86,8 @@ Este proyecto está licenciado bajo los términos de la licencia **MIT**.
 
 ## 📢 Contacto
 
-* Email: [diego.guerrero.dev@gmail.com](mailto:diego.guerrero.dev@gmail.com)
-* LinkedIn: [Diego Guerrero](https://www.linkedin.com/in/diego-guerrero-dev)
+* Email: [: diegoguerrero@umariana.edu.co](mailto:diegoguerrero@umariana.edu.co)
+* LinkedIn: [Diego Guerrero](https://www.linkedin.com/in/diego-guerrero-software/)
 * GitHub: [@Diego-9612](https://github.com/Diego-9612)
 
 ---
